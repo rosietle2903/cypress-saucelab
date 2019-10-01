@@ -1,11 +1,12 @@
 cypress-saucelab
+
 Smoke Tests for SauceLab: https://automationintesting.online/#/
 
 *How to run the tests*
 
 - Install Cypress
-- Navigate to the directory where the tests reside and run npx cypress open
-- There is a sample file preview.gif in the repo to demo the tests
+- Navigate to the directory where the tests reside and run `npx cypress open`
+- There is a sample file `preview.gif` in the repo to demo the tests
 
 *Tests*
 
